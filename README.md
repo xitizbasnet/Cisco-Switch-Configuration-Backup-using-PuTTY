@@ -119,6 +119,5 @@ You’ve successfully backed up your Cisco switch configuration using PuTTY. Thi
 ---
 
 **🔚 The End**
-```
 
 ---
