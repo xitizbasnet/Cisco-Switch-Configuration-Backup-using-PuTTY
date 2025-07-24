@@ -118,6 +118,22 @@ You’ve successfully backed up your Cisco switch configuration using PuTTY. Thi
 
 ---
 
-**🔚 The End**
+## 📎 License
+
+This guide is provided under the [MIT License](LICENSE).
 
 ---
+
+## 🙋‍♂️ Author
+
+**Name**: Xitiz Basnet
+**Role**: Cloud | DevOps | System Engineer
+**GitHub**: [github.com/xitizbasnet](https://github.com/xitizbasnet)
+**LinkedIn**: [linkedin.com/in/xitizbasnet](https://linkedin.com/in/xitizbasnet)
+
+---
+
+> 💬 *Feel free to fork, contribute, or raise an issue if you find anything unclear or outdated!*
+
+---
+
